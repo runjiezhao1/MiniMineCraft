@@ -1,5 +1,7 @@
 # CIS560 Final Project: Mini Minecraft
 
+![alt text](minecraft.png)
+
 ## Installing Instruction
 
 1. clone current repo ```git clone https://github.com/runjiezhao1/MiniMineCraft.git```
