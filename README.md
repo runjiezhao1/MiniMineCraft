@@ -1,4 +1,4 @@
-# CIS560 Final Project: Mini Minecraft
+#Mini Minecraft
 
 ![alt text](minecraft.png)
 
