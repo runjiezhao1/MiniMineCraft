@@ -3,11 +3,24 @@
 ## Installing Instruction
 
 1. clone current repo ```git clone https://github.com/runjiezhao1/MiniMineCraft.git```
-2. install Qt(link: https://www.qt.io/download)
+2. install Qt (link: https://www.qt.io/download)
+3. use qt to open ```miniMinecraft.pro``` in ```assignment_package``` folder
+
+## Play instruction
+
+1. W: move forward
+2. A: move left
+3. S: move backward
+4. D: move right
+5. left click: remove a block
+6. right click: place lava
+7. F: change fly mode
+8. Z: increase speed
+9. C: decrease speed
 
 ## Content
 
-**Features & Distribution**
+**Features**
 	Runjie Zhao:
 		- Fluid Simulation
 		- Sound
