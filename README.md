@@ -1,4 +1,4 @@
-#Mini Minecraft
+# Mini Minecraft
 
 ![alt text](minecraft.png)
 
