@@ -1,6 +1,11 @@
 # CIS560 Final Project: Mini Minecraft
 
-## Milestone-3
+## Installing Instruction
+
+1. clone current repo ```git clone https://github.com/runjiezhao1/MiniMineCraft.git```
+2. install Qt(link: https://www.qt.io/download)
+
+## Content
 
 **Features & Distribution**
 	Runjie Zhao:
